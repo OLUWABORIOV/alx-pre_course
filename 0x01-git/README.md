@@ -1,1 +1,1 @@
-my first
+ “Starting to code today, so cool”
